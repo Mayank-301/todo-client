@@ -6,7 +6,7 @@ A clean, functional, and fully responsive ToDo List application built with React
 
 📸 Preview
 
-(Preview_V1.mp4)
+(todo-client/Preview_V1.mp4)
 
 🛠️ Features:
 
