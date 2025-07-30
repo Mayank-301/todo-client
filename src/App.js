@@ -13,7 +13,7 @@ function App() {
   const handleAddTask = (task) => {
     if (editTask !== null) {
       const updated = [...tasks];
-      updated[editTask] = task;
+      updated[editTask.index] = task;
       setTasks(updated);
       setEditTask(null);
     } else {
@@ -27,8 +27,9 @@ function App() {
     setTasks(updated);
   };
 
-  const handleEdit = (index) => {
-    setEditTask(tasks[index]);
+  const handleEdit = (i) => {
+     const taskToEdit = { ...tasks[i], index: i };
+     setEditTask(taskToEdit);
     setShowForm(true);
   };
 

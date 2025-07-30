@@ -15,6 +15,7 @@ function Form({ onAdd, editData }) {
     if (!name.trim()) return;
 
     const task = {
+      ...editData,
       title: name,
       completed: status === 'Completed', // ✅ converts to boolean
       date: new Date().toLocaleString(), // current time
