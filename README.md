@@ -9,10 +9,6 @@ A clean and functional ToDo List app built using React JS. Organize your tasks, 
 
 (Preview.zip)
 
-📸 Preview
-
-(Update with your actual screenshot filename)
-
 🛠 Features
 Add new tasks
 
