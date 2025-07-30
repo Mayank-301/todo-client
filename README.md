@@ -9,6 +9,10 @@ A clean and functional ToDo List app built using React JS. Organize your tasks, 
 
 (Update with your actual screenshot filename)
 
+📸 Preview
+
+(Update with your actual screenshot filename)
+
 🛠 Features
 Add new tasks
 
@@ -40,7 +44,7 @@ bash
 Copy
 Edit
 # Clone the repository
-git clone https://github.com/Mayank-301/react-todo-app.git
+git clone https://github.com/Mayank-301/todo-client.git
 
 # Navigate to the project directory
 cd todo-client
