@@ -1,51 +1,46 @@
-#✅📝 ToDo List App — Built with React
-A clean and functional ToDo List app built using React JS. Organize your tasks, mark them as completed, edit, and delete — all with a smooth and responsive interface.
+✅📝 React ToDo List App
+A clean, functional, and fully responsive ToDo List application built with React JS. Add, edit, delete, and filter tasks — all in a smooth and interactive UI.
 
 🔗 Live Demo
-👉 Try the ToDo App on Firebase Hosting
-(https://to-do-list-629d4.web.app)
+🌐 Try it here 👉 (https://to-do-list-629d4.web.app)
 
-## 🔗 Live Demo
+📸 Preview
 
 (Preview.zip)
 
+🛠️ Features:
 
-## 🛠 Features
+➕ Add new tasks
+✅ Mark tasks as completed/incomplete
+✏️ Edit tasks
+❌ Delete tasks
+🔍 Filter by: All / Completed / Incomplete
+📱 Fully responsive layout using React components and Bootstrap
 
-Add new tasks
-
-Mark tasks as completed/incomplete
-
-Edit existing tasks
-
-Delete tasks
-
-Filter by All, Completed, Incomplete
-
-Fully responsive UI using React components
-
-## 📂 Tech Stack
+🧰 Tech Stack:
 
 React JS
 
+JavaScript
+
 CSS3
 
-JavaScript 
-
-Bootstrap
+Bootstrap 5
 
 Firebase Hosting
 
-## 🚀 Getting Started
-
-To run this project locally:
+🚀 Getting Started
+To run this project locally, follow these steps:
 
 ```bash
-
-# Clone the repository
+# 1. Clone the repository
 git clone https://github.com/Mayank-301/todo-client.git
 
-# Navigate to the project directory
+# 2. Navigate to the project directory
 cd todo-client
 
+# 3. Install dependencies
+npm install
 
+# 4. Start the development server
+npm start
