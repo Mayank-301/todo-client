@@ -40,9 +40,8 @@ Firebase Hosting
 
 To run this project locally:
 
-bash
-Copy
-Edit
+```bash
+
 # Clone the repository
 git clone https://github.com/Mayank-301/todo-client.git
 
