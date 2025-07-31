@@ -38,10 +38,14 @@ A clean, functional, and fully responsive ToDo List application built with React
 To run this project locally:
 
 ```bash
-# Clone the repository
-git clone https://github.com/Mayank-301/rock-paper-scissors.git
+# 1. Clone the repository
+git clone https://github.com/Mayank-301/todo-client.git
 
-# Navigate to the project directory
-cd rock-paper-scissors
+# 2. Navigate to the project directory
+cd todo-client
 
-# Open index.html in your browser
+# 3. Install dependencies
+npm install
+
+# 4. Start the development server
+npm start
