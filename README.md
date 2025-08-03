@@ -17,16 +17,12 @@ A clean, functional, and fully responsive ToDo List application built with React
 ## 🛠 Features
 
 
-➕ Add new tasks
-✅ Mark tasks as completed/incomplete
-
-✏️ Edit tasks
-
-❌ Delete tasks
-
-🔍 Filter by: All / Completed / Incomplete
-
-📱 Fully responsive layout using React components and Bootstrap
+ - Add new tasks
+ - Mark tasks as completed/incomplete
+ - Edit tasks
+ - Delete tasks
+ - Filter by: All / Completed / Incomplete
+ - Fully responsive layout using React components and Bootstrap
 
 ## 📂 Tech Stack
 
